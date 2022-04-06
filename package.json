@@ -1,0 +1,26 @@
+{
+  "name": "intern-prj1",
+  "version": "1.0.0",
+  "description": "k xa sathi\r Sab thik cha sathi haha.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shr3yashhh/intern-prj1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shr3yashhh/intern-prj1/issues"
+  },
+  "homepage": "https://github.com/Shr3yashhh/intern-prj1#readme"
+}
